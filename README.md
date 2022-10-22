@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/LackyCraft/LackyCraft/" target="_blank">Daniil👋</a> </h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/LackyCraft/" target="_blank">Daniil👋</a> </h1>
 <h3 align="center">I am a student programmer from Russia</h3>
 
 <h3>My languages</h3>
