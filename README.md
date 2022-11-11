@@ -34,6 +34,7 @@ Here are some ideas to get you started:
  
 - [Cybersecurity Essentials certificate (Cisco Networking Academy)](https://drive.google.com/file/d/1nsrfi9vLa3JI5pTTCCLBRZJGzopi10hv/view?usp=sharing)
 - [c++ programming (Bauman Moscow State Technical University)](https://drive.google.com/file/d/1HlzTKX7Ckv1Rvrr4sZWkMgjSWzKNq-3E/view?usp=sharing)
+- [Certificate of completion of the course with honors "interactive SQL simulator" (FAR EASTERN FEDERAL UNIVERSITY (FEFU))](https://stepik.org/cert/1573563)
 
 </details>
 
